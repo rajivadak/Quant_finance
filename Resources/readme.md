@@ -7,6 +7,8 @@ Books:
 5. Paul Wilmott Introduces Quantitative Finance - Paul Wilmott: A practical introduction to quantitative finance concepts.
 6. C++ Design Patterns and Derivatives Pricing
 7. Introduction to C++ for Financial Engineers: An Object-Oriented Approach
+8. Trading systems developers guide - Jeff Vogels
+9. cppstories.com
 
 Free Resources:
 
