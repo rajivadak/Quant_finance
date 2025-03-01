@@ -1,0 +1,33 @@
+Notes:
+
+	Options, Futures and other derivative - John C Hull
+	
+	Chapter 1: Introduction
+		Types of markets:
+			1. Exchange traded markets
+			2. Over-the-counter markets
+			3. Forward contracts
+			4. Future contracts
+			5. Options
+			6. Types of traders
+			7. Hedgers 
+			8. Speculators
+			9. Arbitrageurs
+			10. Dangers
+			
+		1.5 Options:
+			A call option gives the holder the right to buy the underlying asset by a certain date for a certain price.
+			A put option gives the holder the right to sell the underlying asset by a certain date for a certain price.
+			The price of a call option decreases as the strike price increases
+			The price of a put option increases as the strike price increases. 
+			Both types of option tend to become more valuable as their time to maturity increases
+			Types of participants in options market:
+				1. Buyers of calls
+				2. Sellers of calls
+				3. Buyers of puts
+				4. Sellers of puts.
+		
+		Next action:
+			-continue with the jon hull book
+			-start reading quantlib docs
+			
