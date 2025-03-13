@@ -26,6 +26,27 @@ Notes:
 				2. Sellers of calls
 				3. Buyers of puts
 				4. Sellers of puts.
+
+                1.6 Types of traders:
+
+                    There are 3 broad categories of traders:
+                        1. Hedgers - use derivatives to reduce the risk that face from potential future movements in a market variable.
+                        2. speculators - use them to bet on the future direction of a market variable.
+                        3. arbitrageurs - take offsetting positions in two or more instruments to lock in a profit.
+
+                    Labels used for hedge funds for the trading strategies followed by them:
+                        1. Long/short equities: purchase the securities considered to be undervalued and short those considered to be overvalued
+                        2. Convertible arbitrage: take a long position in a thought-to-be undervalued convertible bond, with an actively managed short position in the underlying equity
+                        3. Distressed securities: but securities issued by companies which are in, or close to, bankruptcy
+                        4. Emerging markets invest in debt and equity of companies in developing and emerging countries
+                        5. Global Macro carry out trades which reflect the anticipated global macro-economic trends
+                        6. Merger arbitrage: trade after a possible merger or acquisition is announced, so that profit is made if the announced deal takes place.
+
+                1.7 Hedgers:
+
+                    Hedging means having a backup plan to reduce risk, incase somethings goes wrong
+
+                    Hedgers using forward contracts:
 		
 		Next action:
 			-continue with the jon hull book
